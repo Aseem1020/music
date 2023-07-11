@@ -1,0 +1,29 @@
+*{ background-image: url("./imagefolder/music\ concert.jpg");
+text-align: center;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;}
+
+.name{
+    color: blanchedalmond;
+    background-color: blue;
+    border: "1px";
+    border-color:cyan;
+    border-style: solid;
+    
+}
+.sir{ 
+    color: aqua;
+    background-color: crimson;
+    border: "1px";
+    border-color:hotpink;
+    border-style:dashed;
+}
+.para{ 
+    color:rgb(233, 230, 229);
+    border: "1px";
+    border-color:yellow;
+    border-style:dotted;
+}
+    ;
+}
